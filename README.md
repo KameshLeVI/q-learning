@@ -84,17 +84,20 @@ def q_learning(env,
 
 ## OUTPUT:
 ### Optimal State Value Functions & Action Value Functions:
-![Screenshot 2024-04-30 141135](https://github.com/KameshLeVI/q-learning/assets/120780633/dc5a859e-a9f9-4c84-beec-d663cd10689b)
+![Screenshot 2024-05-07 111412](https://github.com/KameshLeVI/q-learning/assets/120780633/a4a87b81-565c-4258-8d87-52799d38f12f)
+
 
 
 
 ### State value functions of Monte Carlo method:
 
-![Screenshot 2024-04-30 141210](https://github.com/KameshLeVI/q-learning/assets/120780633/ee743d4d-c3b9-46cd-8cda-e2a17e87d358)
+![Screenshot 2024-05-07 111432](https://github.com/KameshLeVI/q-learning/assets/120780633/ce37aba3-c9e7-4c60-8c3e-10a556278809)
+
 
 
 ### State value functions of Qlearning method:
-![Screenshot 2024-04-30 141240](https://github.com/KameshLeVI/q-learning/assets/120780633/afe4bbd2-f5b8-4ef9-b2a1-0b3e35b46da1)
+
+![Screenshot 2024-05-07 111447](https://github.com/KameshLeVI/q-learning/assets/120780633/0d4df4e5-27f3-4fec-be8d-a480283a9b69)
 
 
 ## RESULT:
